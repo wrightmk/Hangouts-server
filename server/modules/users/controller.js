@@ -2,11 +2,6 @@ import User from './model';
 import jwt from 'jwt-simple';
 import config from '../../config/config'
 
-
-
-
-// User creates hangouts for now
-
 function tokenForUser(user) {
 console.log('User', user);
   let timestamp = new Date().getTime();
