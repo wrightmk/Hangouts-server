@@ -1,6 +1,6 @@
 # Hangouts Server (In Progress)
 
-Is a mobile application for travellers and those new in town to make new friends through friendly, casual hangouts. Users are able to create a profile and then choose to either join an existing hangout or organize their own.
+A mobile application for travellers and those new in town to make new friends through friendly, casual hangouts. Users are able to create a profile and then choose to either join an existing hangout or organize their own.
 
 ## Tech
 
